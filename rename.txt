@@ -1,3 +1,0 @@
-basavaraj-bio,basavaraj-devops-profile
-cicd-pipelines,cicd-pipeline-examples
-gitactions-workflows,github-actions-workflows
